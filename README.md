@@ -9,3 +9,5 @@ You can view or download the project poster from the workshop here:
 
 The executable tool was tested on the **DIONDO d5 system** at the University of Southampton, part of the [National X-ray Computed Tomography facility (NXCT)](https://www.southampton.ac.uk/muvis/about/equipment/d5.page). This high-performance scanner setup validated the tool’s effectiveness on real-world Cone Beam CT acquisition data.
 
+** Important:** This is a **beta release** of the SETA tool, developed specifically for the **DIONDO d5 system**. Compatibility with other systems has **not been evaluated**.
+
